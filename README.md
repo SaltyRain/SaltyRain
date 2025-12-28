@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Timur, a Software Engineer based in Germany 🇩🇪
+I'm Timur, a Software Engineer based in Germany
 
 This GitHub is my personal playground — I use it to build side projects, experiment with ideas, and contribute to open source when possible.
 
