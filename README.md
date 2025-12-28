@@ -10,7 +10,7 @@ React · TypeScript · Next.js · Python
 🌱 Currently learning: backend architecture and GenAI, mostly through hands-on projects  
 🛠️ I enjoy learning in public, iterating on ideas, and keeping things simple
 
-📫 Reach me on LinkedIn: [https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/tbgaripov/)
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/tbgaripov/)
 
 
 <!--
